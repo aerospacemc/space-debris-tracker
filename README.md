@@ -11,10 +11,12 @@ A Python-based tool for tracking space debris, assessing collision risk, and det
 
 The Space Debris Tracker is a Python-based tool designed to monitor and analyze the growing problem of space debris. It will provide functionalities for:
 
-*   **Data Acquisition:** Automatically downloading Two-Line Element (TLE) data from online sources.
-*   **Orbit Prediction:** Propagating orbits of debris objects to predict future positions.
-*   **Risk Assessment:** Identifying potential collision risks between debris and operational satellites.
-*   **Feasibility Assessment:** Evaluating the feasibility of removing or mitigating high-risk debris objects.
+*   **PHASE-1 Data Acquisition:** Automatically downloading Two-Line Element (TLE) data from online sources.
+*   **PHASE-1 Short Term Orbit Prediction:** Propagating orbits of debris objects to predict future positions.
+*   **PHASE-2 Filtering and Initial Assessment:** Debris Filtering, Conjunction Analysis
+*   **PHASE-3 Risk Scoring and Fessibility:** Risk Scoring, Initial Feasabilty Assessment
+*   **PHASE-4 Refinement and Expansion:** Refine Orbit Prediction, Advanced Conjunction Analysis, Data Integration, Refine Feasibility Assessment, Visualization
+*   **PHASE-5 Optimization and Deployment:** Optimization, Testing and Validation, Deployment
 
 This project aims to contribute to a better understanding of the space debris environment and to support efforts to ensure the long-term sustainability of space activities.
 
