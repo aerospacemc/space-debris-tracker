@@ -9,7 +9,7 @@ A Python-based tool for tracking space debris, assessing collision risk, and det
 
 ## Overview
 
-The Space Debris Tracker is a Python-based tool designed to monitor and analyze the growing problem of space debris. It provides functionalities for:
+The Space Debris Tracker is a Python-based tool designed to monitor and analyze the growing problem of space debris. It will provide functionalities for:
 
 *   **Data Acquisition:** Automatically downloading Two-Line Element (TLE) data from online sources.
 *   **Orbit Prediction:** Propagating orbits of debris objects to predict future positions.
