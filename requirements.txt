@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+  GNU nano 7.2                    requirements.txt                        M     
+>>>>>>> 178fb64c220e126238673eccc020bb1b3950b3c5
 about-time==4.2.1
 aiodns==3.4.0
 aiohappyeyeballs==2.6.1
@@ -18,6 +22,7 @@ Babel==2.10.3
 beautifulsoup4==4.12.3
 blinker==1.9.0
 blis==1.0.1
+<<<<<<< HEAD
 Brlapi==0.8.4
 catalogue==2.0.10
 certifi==2024.12.14
@@ -194,3 +199,8 @@ xhtml2pdf==0.2.17
 XMind==1.2.0
 yarl==1.20.0
 yt-dlp==2025.4.30
+=======
+
+^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
+>>>>>>> 178fb64c220e126238673eccc020bb1b3950b3c5
