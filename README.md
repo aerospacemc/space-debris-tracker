@@ -49,7 +49,7 @@ This project aims to contribute to a better understanding of the space debris en
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/space-debris-tracker.git
+    git clone https://github.com/aerospacemc/space-debris-tracker.git
     cd space-debris-tracker
     ```
 
@@ -82,7 +82,7 @@ This project aims to contribute to a better understanding of the space debris en
 
 2.  **Follow the instructions in the console to interact with the program.**
 
-    *   The program will automatically download TLE data, propagate orbits, and perform risk assessments.
+    *   The program will load TLE data, propagate orbits, and perform risk assessments.  (Future enhancement)
     *   You can configure the program's behavior through command-line arguments or configuration files.
 
 ## Contribution Guidelines
@@ -90,7 +90,7 @@ This project aims to contribute to a better understanding of the space debris en
 We welcome contributions from the community! To contribute:
 
 1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix: `git checkout -b feature/my-new-feature`
+2.  Create a new branch for your feature or bug fix: `git checkout -b phase/my-new-phase-feature`
 3.  Develop your code and write tests.
 4.  Follow the code style guidelines (PEP 8).
 5.  Create a pull request to the appropriate phase branch (e.g., `phase-1`, `phase-2`).
