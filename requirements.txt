@@ -141,8 +141,8 @@ pyxdg==0.28
 PyYAML==6.0
 pyyaml_env_tag==0.1
 qrcode==8.2
-regex==2022.10.31
-reportbug==12.0.0
+regex 
+reportbug 
 reportlab==4.4.1
 requests==2.31.0
 requests-futures==1.0.2
