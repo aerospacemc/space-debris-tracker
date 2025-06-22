@@ -54,6 +54,3 @@ Please see our [CONTRIBUTORS.md](https://github.com/aerospacemc/space-debris-tra
 
 **Thank you for helping make Space Debris Tracker better! 🚀**
 
----
-
-Would you like me to customize this further with your actual top contributors, or add any specific guidelines or images?
