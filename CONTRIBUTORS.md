@@ -2,6 +2,21 @@
 
 We’re continuously improving **Space Debris Tracker**, and it’s all thanks to our amazing community of contributors! 🙌
 
+## Meet the Team
+
+<!-- Contributor Images with Markdown -->
+### Top Contributors
+
+| ![Alice](https://github.com/alicesmith.png) | ![Bob](https://github.com/bobjohnson.png) | ![Chris](https://github.com/chrislee.png) |  
+|---|---|---|  
+| **[Alice Smith](https://github.com/alicesmith)**<br>Fixed orbit prediction bugs and added visualizations. | **[Bob Johnson](https://github.com/bobjohnson)**<br>Improved data ingestion and dependencies. | **[Chris Lee](https://github.com/chrislee)**<br>Enhanced collision risk modules. |  
+
+---
+
+## Thank You!
+
+We appreciate everyone who has contributed, no matter how big or small. Your efforts help make Space Debris Tracker better for everyone!
+
 ## Top Contributors
 
 Thanks to everyone who's contributed code, documentation, ideas, or feedback.
