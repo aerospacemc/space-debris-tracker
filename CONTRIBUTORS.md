@@ -15,7 +15,7 @@ We’re continuously improving **Space Debris Tracker**, and it’s all thanks t
 
 ## Thank You!
 
-We appreciate everyone who has contributed, no matter how big or small. Your efforts help make Space Debris Tracker better for everyone!
+We appreciate everyone who has contributed, no matter how big or small. Your efforts help make Space Debris Tracker better for everyone! 
 
 ## Top Contributors
 
