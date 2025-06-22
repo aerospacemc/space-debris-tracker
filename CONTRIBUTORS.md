@@ -6,13 +6,23 @@ We’re continuously improving **Space Debris Tracker**, and it’s all thanks t
 
 <!-- Contributor Images with Markdown -->
 ### Contributors
+# Contributors
 
-| ![aerospacemc](https://github.com/aerospacemc.png) | ![aerospacemc](https://github.com/aerospacemc.png)| ![aerospacemc](https://github.com/aerospacemc.png) |  
-|---|---|---|  
-| **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Created Repository. | **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Improved data ingestion and dependencies. | **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Created Project Board with prioritized tasks |  
+Thanks to our main contributor! 🎉
+
+## Meet the Team
+
+| ![aerospacemc](https://avatars.githubusercontent.com/u/217357709?v=4) |  
+|--------------------------------------------------------------|  
+| **[aerospacemc](https://github.com/aerospacemc)**<br>Lead developer and project maintainer. |
 
 ---
 
+## Thank You!
+
+Your efforts help make Space Debris Tracker better for everyone. We appreciate your dedication!
+
+---
 ## Thank You!
 
 We appreciate everyone who has contributed, no matter how big or small. Your efforts help make Space Debris Tracker better for everyone! 
