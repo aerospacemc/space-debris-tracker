@@ -5,7 +5,7 @@ A Python-based tool for tracking space debris, assessing collision risk, and det
 # Space Debris Tracker
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTORS.md)
 [![GitHub Issues](https://img.shields.io/github/issues/aerospacemc/space-debris-tracker)](https://github.com/aerospacemc/space-debris-tracker/issues)
 
 ## Overview
