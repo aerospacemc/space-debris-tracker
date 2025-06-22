@@ -42,9 +42,7 @@ git push origin feature/my-awesome-update
 ```  
 6. **Open a Pull Request** on GitHub — describing your changes!
 
-Please see our [CONTRIBUTING.md](https://github.com/aerospacemc/space-debris-tracker/blob/main/CONTRIBUTING.md) for detailed instructions and our [CODE_OF_CONDUCT.md](https://github.com/aerospacemc/space-debris-tracker/blob/main/CODE_OF_CONDUCT.md) to keep our community welcoming.
-
----
+Please see our [CONTRIBUTORS.md](https://github.com/aerospacemc/space-debris-tracker/blob/main/CONTRIBUTORS.md) for the list of contributors and [CODE_OF_CONDUCT.md](https://github.com/aerospacemc/space-debris-tracker/blob/main/CODE_OF_CONDUCT.md) to keep our community welcoming.
 
 ## How to Get in Touch
 
