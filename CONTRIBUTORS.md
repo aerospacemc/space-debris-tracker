@@ -7,9 +7,9 @@ We’re continuously improving **Space Debris Tracker**, and it’s all thanks t
 <!-- Contributor Images with Markdown -->
 ### Top Contributors
 
-| ![Alice](https://github.com/alicesmith.png) | ![Bob](https://github.com/bobjohnson.png) | ![Chris](https://github.com/chrislee.png) |  
+| ![aerospacemc](https://github.com/aerospacemc.png) | ![Bob](https://github.com/bobjohnson.png) | ![Chris](https://github.com/chrislee.png) |  
 |---|---|---|  
-| **[Alice Smith](https://github.com/alicesmith)**<br>Fixed orbit prediction bugs and added visualizations. | **[Bob Johnson](https://github.com/bobjohnson)**<br>Improved data ingestion and dependencies. | **[Chris Lee](https://github.com/chrislee)**<br>Enhanced collision risk modules. |  
+| **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Created Repository. | **[Bob Johnson](https://github.com/bobjohnson)**<br>Improved data ingestion and dependencies. | **[Chris Lee](https://github.com/chrislee)**<br>Enhanced collision risk modules. |  
 
 ---
 
@@ -25,7 +25,7 @@ Thanks to everyone who's contributed code, documentation, ideas, or feedback.
 
 | Contributor | GitHub Profile | Contributions |  
 |---|---|---|  
-| [aerospace](https://github.com/aerospace) | ⭐⭐ | repository creator! |  
+| [aerospacemc](https://github.com/aerospacemc) | ⭐⭐ | repository creator! |  
 
 ## How to Contribute
 
