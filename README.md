@@ -69,15 +69,54 @@ This project aims to contribute to a better understanding of the space debris en
     source venv/bin/activate  # On Linux/macOS
     ```
 
-3.  **Install dependencies:**
+2.  **Create a virtual environment (recommended):**
 
     ```bash
+    sudo apt update
+    sudo apt install python3-pip
+    pip3 --version
+    sudo apt install python3.11-venv
+    python3 -m venv venv
+    source venv/bin/activate  # On Linux/macOS
+    venv\Scripts\activate  # On Windows
+    ```
+
+4.  **Install dependencies:**
+
+    ```bash
+    sudo apt-get install python3-brlapi
+    sudo apt-get update
+    sudo apt-get install pkg-config meson cmake libdbus-1-dev
+    sudo apt-get install libglib2.0-dev
+    sudo apt-get install libcurl4-openssl-dev
+    sudo apt-get install libcairo2-dev
+    sudo apt-get install libsmbclient-dev
+     **Install Python**
+    sudo apt-get install python3.10 python3.10-venv python3.10-dev
+    sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python3-openssl git
+    curl https://pyenv.run | bash
+    export PYENV_ROOT="$HOME/.pyenv"
+    export PATH="$PYENV_ROOT/bin:$PATH"
+    eval "$(pyenv init --path)"
+    eval "$(pyenv virtualenv-init -)"
+    Restart your shell or source your profile.
+    source ~/.bashrc  # or ~/.zshrc
+    pyenv --version
+    sudo apt-get update
+    sudo apt-get update
+    sudo apt-get install libcups2-dev libgirepository1.0-dev gir1.2-gtk-3.0
+
     pip install -r requirements.txt
     ```
 
-4.  **Configure environment variables** (if needed):
-    - Create a `.env` file in the root directory.
-    - Add API keys or configuration variables as required.
+5.  **Configure environment variables (if needed):**
+
+    *   Create a `.env` file in the project root directory.
+    *   Set any necessary environment variables (e.g., API keys, data directories).
+    python -m venv env
+    source env/bin/activate
+    pip install --upgrade pip setuptools
+
 
 ## Usage
 
@@ -87,29 +126,53 @@ This project aims to contribute to a better understanding of the space debris en
     python3 debris_clustering10.py
     ```
 
-2.  **Follow the on-screen instructions** to load data, perform orbit analysis, and run risk assessments.
+2.  **Follow the instructions in the console to interact with the program.**
 
----
+    *   The program will load TLE data, propagate orbits, and perform risk assessments.  (Future enhancement)
+    *   You can configure the program's behavior through command-line arguments or configuration files.
 
 ## Contribution Guidelines
 
-We welcome contributions! To contribute:
+We welcome contributions from the community! To contribute:
 
-1. Fork the repo.
-2. Create a feature or bugfix branch: `git checkout -b feature/my-feature`.
-3. Develop your changes and add tests.
-4. Follow PEP 8 coding standards.
-5. Submit a pull request for review.
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix: `git checkout -b phase/my-new-phase-feature`
+3.  Develop your code and write tests.
+4.  Follow the code style guidelines (PEP 8).
+5.  Create a pull request to the appropriate phase branch (e.g., `phase-1`, `phase-2`).
+6.  Your pull request will be reviewed by the project maintainers.
 
-### Reporting bugs:
-Please open an issue with:
-- A clear description
-- Steps to reproduce
-- Expected vs. actual behavior
-- Any relevant error messages
+### Code Style
+
+*   Follow PEP 8 guidelines.
+*   Write clear and concise code with comments.
+*   Write unit tests for all new features.
+
+### Reporting Bugs
+
+If you find a bug, please report it by creating a new issue in the issue tracker.  Be sure to include:
+
+*   A clear description of the bug
+*   Steps to reproduce the bug
+*   The expected behavior
+*   The actual behavior
+*   Any relevant error messages
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the `LICENSE` file for details.
 
 ## Contact
+
+*   aerospacemc
+*  info@aerospacemc.com
+*   [GitHub Profile](https://github.com/aerospacemc)
+
+## Acknowledgements
+
+*   [Celestrak](https://celestrak.org/) for providing TLE data.
+*   The Skyfield developers for creating a powerful astrodynamics library.
+*   The open-source community for contributing to the advancement of space research.
+
+---
+
