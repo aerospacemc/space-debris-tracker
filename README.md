@@ -64,6 +64,10 @@ This project aims to contribute to a better understanding of the space debris en
 2.  **Create a virtual environment (recommended):**
 
     ```bash
+    sudo apt update
+    sudo apt install python3-pip
+    pip3 --version
+    sudo apt install python3.11-venv
     python3 -m venv venv
     source venv/bin/activate  # On Linux/macOS
     venv\Scripts\activate  # On Windows
@@ -72,12 +76,6 @@ This project aims to contribute to a better understanding of the space debris en
 4.  **Install dependencies:**
 
     ```bash
-    sudo apt update
-    sudo apt install python3-pip
-    pip3 --version
-    sudo apt install python3.11-venv
-    python3 -m venv env
-    source env/bin/activate
     pip install -r requirements.txt
     ```
 
