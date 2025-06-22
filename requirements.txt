@@ -128,7 +128,7 @@ PySimpleSOAP==1.16.2
 pysmbc==1.0.23
 PySocks==1.7.1
 pytest==7.2.1
-python-apt==2.6.0
+#python-apt==2.6.0
 python-bidi==0.6.6
 python-dateutil==2.8.2
 python-debian==0.1.49
