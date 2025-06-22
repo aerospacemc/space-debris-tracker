@@ -5,11 +5,11 @@ We’re continuously improving **Space Debris Tracker**, and it’s all thanks t
 ## Meet the Team
 
 <!-- Contributor Images with Markdown -->
-### Top Contributors
+### Contributors
 
-| ![aerospacemc](https://github.com/aerospacemc.png) | ![Bob](https://github.com/bobjohnson.png) | ![Chris](https://github.com/chrislee.png) |  
+| ![aerospacemc](https://github.com/aerospacemc.png) | ![aerospacemc](https://github.com/aerospacemc.png)| ![aerospacemc](https://github.com/aerospacemc.png) |  
 |---|---|---|  
-| **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Created Repository. | **[Bob Johnson](https://github.com/bobjohnson)**<br>Improved data ingestion and dependencies. | **[Chris Lee](https://github.com/chrislee)**<br>Enhanced collision risk modules. |  
+| **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Created Repository. | **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Improved data ingestion and dependencies. | **[Zenotis Boyd](https://github.com/aerospacemc)**<br>Created Project Board with prioritized tasks |  
 
 ---
 
