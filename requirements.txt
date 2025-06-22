@@ -114,7 +114,7 @@ pycups==2.0.1
 pycurl==7.45.2
 pydantic==2.10.1
 pydantic_core==2.27.1
-pyee==11.1.0
+pyee
 Pygments==2.17.2
 PyGObject==3.42.2
 pyHanko==0.27.1
