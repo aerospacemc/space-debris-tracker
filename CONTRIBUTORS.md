@@ -25,11 +25,7 @@ Thanks to everyone who's contributed code, documentation, ideas, or feedback.
 
 | Contributor | GitHub Profile | Contributions |  
 |---|---|---|  
-| [Alice Smith](https://github.com/alicesmith) | ⭐⭐ | Fixed orbit prediction bugs, added new visualization features! |  
-| [Bob Johnson](https://github.com/bobjohnson) | ⭐ | Improved data ingestion scripts and updated dependencies. |  
-| [Chris Lee](https://github.com/chrislee) | ⭐⭐ | Enhanced collision risk assessment module. |  
-
-*(You can generate this table automatically with tools like [git-fame](https://github.com/caspergrande/git-fame))*  
+| [aerospace](https://github.com/aerospace) | ⭐⭐ | repository creator! |  
 
 ## How to Contribute
 
