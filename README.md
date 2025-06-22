@@ -79,6 +79,23 @@ This project aims to contribute to a better understanding of the space debris en
     sudo apt-get install python3-brlapi
     sudo apt-get update
     sudo apt-get install pkg-config meson cmake libdbus-1-dev
+    sudo apt-get install libglib2.0-dev
+    sudo apt-get install libcurl4-openssl-dev
+    sudo apt-get install libcairo2-dev
+    sudo apt-get install libsmbclient-dev
+     **Install Python**
+    sudo apt-get install python3.10 python3.10-venv python3.10-dev
+    sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python3-openssl git
+    curl https://pyenv.run | bash
+    export PYENV_ROOT="$HOME/.pyenv"
+    export PATH="$PYENV_ROOT/bin:$PATH"
+    eval "$(pyenv init --path)"
+    eval "$(pyenv virtualenv-init -)"
+    Restart your shell or source your profile.
+    source ~/.bashrc  # or ~/.zshrc
+    pyenv --version
+    sudo apt-get update
+
     pip install -r requirements.txt
     ```
 
@@ -86,6 +103,10 @@ This project aims to contribute to a better understanding of the space debris en
 
     *   Create a `.env` file in the project root directory.
     *   Set any necessary environment variables (e.g., API keys, data directories).
+    python -m venv env
+    source env/bin/activate
+    pip install --upgrade pip setuptools
+
 
 ## Usage
 
