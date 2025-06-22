@@ -77,6 +77,8 @@ This project aims to contribute to a better understanding of the space debris en
 
     ```bash
     sudo apt-get install python3-brlapi
+    sudo apt-get update
+    sudo apt-get install pkg-config meson cmake libdbus-1-dev
     pip install -r requirements.txt
     ```
 
