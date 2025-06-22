@@ -70,10 +70,10 @@ livereload==2.6.3
 louis==3.24.0
 lunr==0.6.2
 lxml==5.4.0
-maigret @ file:///home/osint/Downloads/Programs/maigret
+#maigret @ file:///home/osint/Downloads/Programs/maigret
 Mako==1.2.4.dev0
 marisa-trie==1.2.1
-Markdown==3.4.1
+Markdown
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.3
