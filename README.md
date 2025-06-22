@@ -76,6 +76,7 @@ This project aims to contribute to a better understanding of the space debris en
 4.  **Install dependencies:**
 
     ```bash
+    sudo apt-get install python3-brlapi
     pip install -r requirements.txt
     ```
 
