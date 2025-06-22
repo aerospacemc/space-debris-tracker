@@ -1,7 +1,3 @@
-Certainly! Here's a detailed, friendly, and engaging example of a GitHub contributor page README tailored for your project, **Space Debris Tracker**:
-
----
-
 # Contributors
 
 We’re continuously improving **Space Debris Tracker**, and it’s all thanks to our amazing community of contributors! 🙌
