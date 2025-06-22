@@ -115,7 +115,7 @@ This project aims to contribute to a better understanding of the space debris en
 1.  **Run the main script:**
 
     ```bash
-    python src/main.py
+    python3 debris_clustering10.py
     ```
 
 2.  **Follow the instructions in the console to interact with the program.**
