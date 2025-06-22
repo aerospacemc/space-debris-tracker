@@ -95,6 +95,8 @@ This project aims to contribute to a better understanding of the space debris en
     source ~/.bashrc  # or ~/.zshrc
     pyenv --version
     sudo apt-get update
+    sudo apt-get update
+    sudo apt-get install libcups2-dev libgirepository1.0-dev gir1.2-gtk-3.0
 
     pip install -r requirements.txt
     ```
