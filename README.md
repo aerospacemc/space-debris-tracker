@@ -48,6 +48,12 @@ This project aims to contribute to a better understanding of the space debris en
 
 ## Setup
 
+0.  **get Git:**
+    ```bash
+    sudo apt update
+    sudo apt install git
+    ```
+
 1.  **Clone the repository:**
 
     ```bash
@@ -63,13 +69,19 @@ This project aims to contribute to a better understanding of the space debris en
     venv\Scripts\activate  # On Windows
     ```
 
-3.  **Install dependencies:**
+4.  **Install dependencies:**
 
     ```bash
+    sudo apt update
+    sudo apt install python3-pip
+    pip3 --version
+    sudo apt install python3.11-venv
+    python3 -m venv env
+    source env/bin/activate
     pip install -r requirements.txt
     ```
 
-4.  **Configure environment variables (if needed):**
+5.  **Configure environment variables (if needed):**
 
     *   Create a `.env` file in the project root directory.
     *   Set any necessary environment variables (e.g., API keys, data directories).
