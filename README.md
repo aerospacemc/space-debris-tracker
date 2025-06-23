@@ -1,4 +1,4 @@
-# space-debris-tracker - A Python-based tool for tracking space debris, assessing collision risk, and determining removal feasibility
+# Space Debris Tracker - A Python-based tool for tracking space debris, assessing collision risk, and determining removal feasibility
 
 Hi everyone! We're building an open-source tool for space debris tracking and mitigation, aiming to improve satellite safety and 
 reduce clutter in Earth's orbit. If you're passionate about space tech and open-source development, we'd love your help! Check it out and contribute
