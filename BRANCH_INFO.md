@@ -37,7 +37,7 @@ Problem: Ensuring the accuracy and reliability of the space debris tracking syst
 Solution: Implement a comprehensive testing and validation plan to ensure that the system is functioning correctly and producing accurate results.
 
 Implementation Steps:
-    1.  Unit Tests: Write unit tests to verify the correctness of individual functions and modules.
+    1.  Profile the Code: Unit Tests: Write unit tests to verify the correctness of individual functions and modules.
     2.  Integration Tests: Write integration tests to verify the interaction between different components of the system.
     3.  System Tests: Perform system tests to verify the overall functionality of the system.
     4.  Performance Tests: Perform performance tests to measure the speed and resource consumption of the system.
