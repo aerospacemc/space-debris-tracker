@@ -1,4 +1,4 @@
-# Branch: Phase 2: Filtering and Initial Risk Assessment
+# Branch: Phase 2: Risk Asessment Conjunction Analysis
 
 Purpose: This repository serves as the home for code developed and tested specifically for Phase 1 of the project.
 
