@@ -2,6 +2,17 @@
 
 A Python-based tool for tracking space debris, assessing collision risk, and determining removal feasibility
 
+Hi everyone! We're building an open-source tool for space debris tracking and mitigation, aiming to improve satellite safety and 
+reduce clutter in Earth's orbit. If you're passionate about space tech and open-source development, we'd love your help! Check it out and contribute
+
+Vision - Making Orbit Safe: Active Debris Removal as a Service (ODRaaS)
+
+Space-Debris-tTracker Application Objectives:  
+      Define operational envelope:debris target types(size/mass),altitudes, inclinations, removal rate goals
+      Orbital Scenario Simulation - Identify conjunction-prone targets using historical and projected data
+      Conjunction Risk reduction modeling: quantify the net benefit of removing different debris types using a Monte Carlo approach
+      AI Path Planning and Dynamic Scheduling: demonstrate a convergent, safe approach to planning for multi-target missions and real-time rerouting
+
 # Space Debris Tracker
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
