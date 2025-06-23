@@ -21,6 +21,10 @@ Development Workflow:
         *   **Orbit:** The Code is already using orbital parameters.  Need to define filters based on inclination, altitude (derived from semi-major axis), eccentricity, etc.
     *   **Filtering Logic:** Add conditional statements to filter the `satellites` list based on these criteria *before* clustering.
 
+   **Debris Filtering:**
+       *   Start with a simple filtering implementation (e.g., based on inclination and a placeholder size attribute, as in the example).
+       *   Test the filtering to ensure that it correctly selects debris objects based on the defined criteria.
+       *   Later, integrate actual size data (e.g., from RCS values) if available.
 
 ## Related Issues/Tasks
 
