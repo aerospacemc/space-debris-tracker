@@ -1,4 +1,4 @@
-# Branch: Phase 4: Refinement and Expansion
+# Branch: Phase 4: Refinement and Expansion - Advanced Conjunction Analysis
 
 Purpose: This repository serves as the home for code developed and tested specifically for Phase 4 of the project.
 
@@ -12,7 +12,7 @@ Development Workflow:
 
 ## Requirements
 
-Phase 4: Refinement and Expansion
+Phase 4: Refinement and Expansion - Advanced Conjunction Analysis
 
 Overall Goal: To improve the accuracy, scope, and usability of the space debris tracking system by refining the orbit prediction models, enhancing the conjunction analysis algorithms, integrating additional data sources, improving the feasibility assessment, and adding new visualization capabilities.
 
