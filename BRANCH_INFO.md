@@ -14,7 +14,7 @@ Development Workflow:
 
 Phase 5: Optimization and Deployment
 
-Overall Goal: To optimize the performance of the space debris tracking system and to deploy it to a production environment where it can be used by end-users.
+Overall Goal: To optimize the performance of the space debris tracking application and to deploy it to a production environment where it can be used by end-users.
 
 5.1 Optimization:
 
