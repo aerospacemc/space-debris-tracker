@@ -1,6 +1,6 @@
 # Branch: Phase 5: Optimization and Deployment
 
-Purpose: This repository serves as the home for code developed and tested specifically for Phase 3 of the project.
+Purpose: This repository serves as the home for code developed and tested specifically for Phase 5 of the project.
 
 Development Workflow:
 *   Developers fork the main repository to contribute.
