@@ -1,4 +1,4 @@
-# Branch: Phase 5: Optimization and Deployment
+# Branch: Phase 5: Optimization
 
 Purpose: This repository serves as the home for code developed and tested specifically for Phase 5 of the project.
 
