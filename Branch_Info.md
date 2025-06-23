@@ -35,7 +35,7 @@ Development Workflow:
 
 ## Status
 
-<current status of the branch "In Development">
+* "In Development"
 
 ## Owner
 
