@@ -20,7 +20,7 @@ Phase 5: Optimization and Deployment
 
     Problem: The performance of the space debris tracking system can be a bottleneck, especially when processing large amounts of data or performing complex calculations.
 
-    Solution:** Optimize the code to improve its performance and reduce its resource consumption.
+    Solution: Optimize the code to improve its performance and reduce its resource consumption.
    
     Implementation Steps:
         1.  Profile the Code: Use profiling tools to identify the areas of the code that are consuming the most time and resources.
@@ -32,9 +32,9 @@ Phase 5: Optimization and Deployment
 
 *   5.2 Testing and Validation:
 
-    Problem:** Ensuring the accuracy and reliability of the space debris tracking system is critical, especially for safety-critical applications.
+    Problem: Ensuring the accuracy and reliability of the space debris tracking system is critical, especially for safety-critical applications.
 
-    Solution:** Implement a comprehensive testing and validation plan to ensure that the system is functioning correctly and producing accurate results.
+    Solution: Implement a comprehensive testing and validation plan to ensure that the system is functioning correctly and producing accurate results.
 
     Implementation Steps:
         1.  Unit Tests: Write unit tests to verify the correctness of individual functions and modules.
