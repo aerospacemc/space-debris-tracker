@@ -1,7 +1,6 @@
 # Branch: Phase 1: Foundation - Data Acquisition & Basic Prediction
 
-Branch
-This repository serves as the home for code developed and tested specifically for Phase 1 of the project.
+Purpose: This repository serves as the home for code developed and tested specifically for Phase 1 of the project.
 
 Development Workflow:
 *   Developers fork the main repository to contribute.
@@ -15,7 +14,7 @@ Development Workflow:
 
 **1. Continuous Data Acquisition:**
 
-*   **Problem:** Your current code loads TLE data from a file only once. You need a mechanism to periodically update this data.
+*   **Problem:** The current code loads TLE data from a file only once. Needed: a mechanism to periodically update this data.
 *   **Solution:**
     *   **Download TLEs Automatically:** Implement a function to download TLE data from a reliable online source (e.g., Celestrak).  Use the `requests` library in Python.
     *   **Schedule Updates:** Use a scheduler (e.g., `schedule` library or `threading.Timer`) to run the download function at regular intervals (e.g., every hour, every day).
@@ -24,7 +23,7 @@ Development Workflow:
 
 **2. Short-Term Prediction:**
 
-*   **Problem:** Your current code uses a single snapshot in time. You need to propagate the orbits to predict future positions.
+*   **Problem:** The current code uses a single snapshot in time. Needed: propagate the orbits to predict future positions.
 *   **Solution:**
     *   **Orbit Propagation:** Use Skyfield's `at()` method with different times to predict satellite positions at future epochs.
     *   **Time Deltas:** Create an array of time deltas to define the prediction horizon (e.g., predict positions every 10 minutes for the next 24 hours).
