@@ -5,7 +5,7 @@ reduce clutter in Earth's orbit. If you're passionate about space tech and open-
 
 Vision - Making Orbit Safe: Active Debris Removal as a Service (ODRaaS)
 
-Space-Debris-tTracker Application Objectives:  
+Space-Debris-Tracker Application Objectives:  
 * Define operational envelope: debris target types(size/mass),altitudes, inclinations, removal rate goals
 * Orbital Scenario Simulation: Identify conjunction-prone targets using historical and projected data
 * Conjunction Risk reduction modeling: quantify the net benefit of removing different debris types using a Monte Carlo approach
