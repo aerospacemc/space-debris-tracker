@@ -6,7 +6,7 @@ from skyfield.api import load, EarthSatellite
 from datetime import datetime, timezone
 
 # Path to your TLE file
-file_path = '/home/osint/debris-env/FENGUN_1C_DEB_TLE.txt'
+file_path = 'FENGUN_1C_DEB_TLE.txt'
 
 # Function to load TLEs from file
 def load_tle_from_file(filepath):
