@@ -1,4 +1,4 @@
-# Branch: Phase 5: Optimization and Deployment
+# Branch: Phase 5: Optimization and Deployment - Testing and Validation
 
 Purpose: This repository serves as the home for code developed and tested specifically for Phase 5 of the project.
 
@@ -12,7 +12,7 @@ Development Workflow:
 
 ## Requirements
 
-Phase 5: Optimization and Deployment
+Phase 5: Optimization and Deployment - Testing and Validation
 
 Overall Goal: To optimize the performance of the space debris tracking application and to deploy it to a production environment where it can be used by end-users.
 
