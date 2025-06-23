@@ -23,11 +23,11 @@ Phase 5: Optimization and Deployment
     Solution: Optimize the code to improve its performance and reduce its resource consumption.
    
     Implementation Steps:
-        *   1.  Profile the Code: Use profiling tools to identify the areas of the code that are consuming the most time and resources.
-        *   2.  Optimize Algorithms: Improve the efficiency of the algorithms used for orbit determination, conjunction analysis, and risk scoring.
-        *   3.  Optimize Data Structures: Choose appropriate data structures to minimize memory usage and improve data access times.
-        *   4.  Implement Parallel Processing: Use parallel processing techniques to distribute the workload across multiple cores or machines.
-        *   5.  Cache Data: Implement caching mechanisms to store frequently accessed data in memory.
+  *   1.  Profile the Code: Use profiling tools to identify the areas of the code that are consuming the most time and resources.
+  *   2.  Optimize Algorithms: Improve the efficiency of the algorithms used for orbit determination, conjunction analysis, and risk scoring.
+  *   3.  Optimize Data Structures: Choose appropriate data structures to minimize memory usage and improve data access times.
+  *   4.  Implement Parallel Processing: Use parallel processing techniques to distribute the workload across multiple cores or machines.
+  *   5.  Cache Data: Implement caching mechanisms to store frequently accessed data in memory.
 
 
 *   5.2 Testing and Validation:
