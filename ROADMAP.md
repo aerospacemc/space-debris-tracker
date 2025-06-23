@@ -12,19 +12,22 @@ Space-Debris-tTracker Application Objectives:
       AI Path Planning and Dynamic Scheduling: demonstrate a convergent, safe approach to planning for multi-target missions and real-time rerouting
 
 🚀 Short-term Goals (Q2-Q3 2025)
-- Set up core architecture for GITHUB development environment
-- Implement basic TLE data ingestion from public satellite data sources
-- Develop initial visualizations of debris in orbit
-- Write documentation for setup and usage
+- PHASE-0 Set up core architecture for GITHUB development environment
+- PHASE-0 Implement basic TLE data ingestion from public satellite data sources
+- PHASE-0 Develop initial visualizations of debris in orbit
+- PHASE-0 Write documentation for setup and usage
+- PHASE-1 Establish an active community for ongoing development and discussion
+- PHASE-1 Data Acquisition: Automatically downloading Two-Line Element (TLE) data from online sources.
+- PHASE-1 Short Term Orbit Prediction: Propagating orbits of debris objects to predict future positions.
 
 🔧 Medium-term Goals (Q3-Q4 2025)
-- Integrate real-time tracking data streams
-- Enable alerts for debris approaching predefined zones
-- Implement predictive models for orbital collision risk
-- Create a simple user interface for monitoring
+- PHASE-2 Filtering and Initial Assessment: Debris Filtering, Conjunction Analysis
+- PHASE-3 Risk Scoring and Feasibility: Risk Scoring, Initial Feasibility Assessment
 
-🌍 Long-term Goals (Q4 2025 and beyond)
-- Support orbital debris simulation and scenario testing
-- Collaborate with space agencies for data sharing
-- Develop mitigation strategies and recommendations
-- Establish an active community for ongoing development and discussion
+🌍 Long-term Goals (Q1-Q2 2026 and beyond)
+- PHASE-4 Refinement and Expansion: Refine Orbit Prediction, Advanced Conjunction Analysis, Data Integration, Refine Feasibility Assessment, Visualization
+- PHASE-5 Optimization and Deployment: Optimization, Testing and Validation, Deployment
+
+
+
+
