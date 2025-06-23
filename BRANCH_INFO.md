@@ -12,7 +12,7 @@ Development Workflow:
 
 ## Requirements
 
-Phase 5: Optimization and Deployment
+Phase 5: Optimization 
 
 Overall Goal: To optimize the performance of the space debris tracking application and to deploy it to a production environment where it can be used by end-users.
 
