@@ -1,11 +1,12 @@
 # space-debris-tracker
+
 A Python-based tool for tracking space debris, assessing collision risk, and determining removal feasibility
 
 # Space Debris Tracker
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/space-debris-tracker)](https://github.com/your-username/space-debris-tracker/issues)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTORS.md)
+[![GitHub Issues](https://img.shields.io/github/issues/aerospacemc/space-debris-tracker)](https://github.com/aerospacemc/space-debris-tracker/issues)
 
 ## Overview
 
@@ -14,11 +15,11 @@ The Space Debris Tracker is a Python-based tool designed to monitor and analyze 
 *   **PHASE-1 Data Acquisition:** Automatically downloading Two-Line Element (TLE) data from online sources.
 *   **PHASE-1 Short Term Orbit Prediction:** Propagating orbits of debris objects to predict future positions.
 *   **PHASE-2 Filtering and Initial Assessment:** Debris Filtering, Conjunction Analysis
-*   **PHASE-3 Risk Scoring and Fessibility:** Risk Scoring, Initial Feasabilty Assessment
+*   **PHASE-3 Risk Scoring and Feasibility:** Risk Scoring, Initial Feasibility Assessment
 *   **PHASE-4 Refinement and Expansion:** Refine Orbit Prediction, Advanced Conjunction Analysis, Data Integration, Refine Feasibility Assessment, Visualization
 *   **PHASE-5 Optimization and Deployment:** Optimization, Testing and Validation, Deployment
 
-This project aims to contribute to a better understanding of the space debris environment and to support efforts to ensure the long-term sustainability of space activities.
+This project aims to contribute to a better understanding of the space debris environment and support efforts to ensure the long-term sustainability of space activities.
 
 ## Goals
 
@@ -48,7 +49,7 @@ This project aims to contribute to a better understanding of the space debris en
 
 ## Setup
 
-0.  **get Git:**
+0.  **Get Git:**
     ```bash
     sudo apt update
     sudo apt install git
@@ -59,6 +60,13 @@ This project aims to contribute to a better understanding of the space debris en
     ```bash
     git clone https://github.com/aerospacemc/space-debris-tracker.git
     cd space-debris-tracker
+    ```
+
+2.  **Create a virtual environment (recommended):**
+
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Linux/macOS
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -76,6 +84,28 @@ This project aims to contribute to a better understanding of the space debris en
 4.  **Install dependencies:**
 
     ```bash
+    sudo apt-get install python3-brlapi
+    sudo apt-get update
+    sudo apt-get install pkg-config meson cmake libdbus-1-dev
+    sudo apt-get install libglib2.0-dev
+    sudo apt-get install libcurl4-openssl-dev
+    sudo apt-get install libcairo2-dev
+    sudo apt-get install libsmbclient-dev
+     **Install Python**
+    sudo apt-get install python3.10 python3.10-venv python3.10-dev
+    sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python3-openssl git
+    curl https://pyenv.run | bash
+    export PYENV_ROOT="$HOME/.pyenv"
+    export PATH="$PYENV_ROOT/bin:$PATH"
+    eval "$(pyenv init --path)"
+    eval "$(pyenv virtualenv-init -)"
+    Restart your shell or source your profile.
+    source ~/.bashrc  # or ~/.zshrc
+    pyenv --version
+    sudo apt-get update
+    sudo apt-get update
+    sudo apt-get install libcups2-dev libgirepository1.0-dev gir1.2-gtk-3.0
+
     pip install -r requirements.txt
     ```
 
@@ -83,13 +113,17 @@ This project aims to contribute to a better understanding of the space debris en
 
     *   Create a `.env` file in the project root directory.
     *   Set any necessary environment variables (e.g., API keys, data directories).
+    python -m venv env
+    source env/bin/activate
+    pip install --upgrade pip setuptools
+
 
 ## Usage
 
 1.  **Run the main script:**
 
     ```bash
-    python src/main.py
+    python3 debris_clustering10.py
     ```
 
 2.  **Follow the instructions in the console to interact with the program.**
@@ -126,7 +160,7 @@ If you find a bug, please report it by creating a new issue in the issue tracker
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Apache License. See the `LICENSE` file for details.
 
 ## Contact
 
@@ -141,5 +175,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 *   The open-source community for contributing to the advancement of space research.
 
 ---
-
 
